@@ -3,6 +3,10 @@
 
 **About us**: We are here to help you get from zero to hero in cloud technologies: Kubernetes, Docker and OpenStack. Learn from the leaders in Container revolution! Get Docker and Kubernetes training from the leaders in Container revolution! (Formerly Docker Enterprise). We've trained +40,000 worldwide and offer curated bootcamps that are engaging, dynamic, with amazing hands-on labs to get you up and running within days!
 
+**Interesting Reading**
+- [What is Kubernetes?](pages/what-is-kubernets.md)
+- [Kubernetes vs Docker Swarm](pages/kubernetes-v-swarm.md)
+
 --- 
 
 ## Kubernetes Learning Resources
