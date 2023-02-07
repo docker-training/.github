@@ -1,4 +1,5 @@
 <img src="/cover-image.jpeg" width="100%">
+
 # Mirantis Training
 
 **About us**: We are here to help you get from zero to hero in cloud technologies: Kubernetes, Docker and OpenStack. Learn from the leaders in Container revolution! Get Docker and Kubernetes training from the leaders in Container revolution! (Formerly Docker Enterprise). We've trained +40,000 worldwide and offer curated bootcamps that are engaging, dynamic, with amazing hands-on labs to get you up and running within days!
