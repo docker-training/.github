@@ -1,4 +1,4 @@
-![k8s vs swarm](pages/images/k8s-v-swarm.jpeg)
+![k8s vs swarm](images/k8s-v-swarm.jpeg)
 
 # Kubernetes vs Docker Swarm
 
