@@ -1,4 +1,4 @@
-![cover image](cover-image.jpeg)
+<img src="/cover-image.jpeg" width="100%">
 # Mirantis Training
 
 **About us**: We are here to help you get from zero to hero in cloud technologies: Kubernetes, Docker and OpenStack. Learn from the leaders in Container revolution! Get Docker and Kubernetes training from the leaders in Container revolution! (Formerly Docker Enterprise). We've trained +40,000 worldwide and offer curated bootcamps that are engaging, dynamic, with amazing hands-on labs to get you up and running within days!
@@ -11,7 +11,7 @@
 
 ## Kubernetes Learning Resources
 
-![k8s learning paths](learning-paths.png)
+<img src="/learning-paths.png" width="100%">
 
 :point_right: :point_right: :point_right: [Try our free Kubernetes tutorial!](https://learn.mirantis.com/store/2993128-k0s-demo-lab)  
 
@@ -39,7 +39,7 @@ Ondemand Training: [Learn.mirantis.com](https://learn.mirantis.com/store)
 
 ## Docker & Docker Swarm Resources:
 
-![dca path](dca-path.png)
+<img src="/dca-path.png" width="100%">
 
 - **Docker Certification:**
   - [Docker Certified Associate (DCA) Exam - Mirantis Training]()
@@ -54,7 +54,7 @@ Docker Swarm Application Essentials: In this course, you’ll learn what a conta
 
 **Ondemand Course**: [Docker Swarm Essentials (OD) | Mirantis Training](https://training.mirantis.com/on-demand-training/cn110-docker-swarm-essentials-od/)
 
-![badges](badges.png)
+<img src="/badges.png" width="100%">
 
 
 
